@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="app_header">Quiz App</string>
+    <string name="no_of_questions">No. of Questions: 7</string>
+    <string name="question_1">Q1 - What is Android?</string>
+    <string name="question_1_option_1">a) Android is a stack of softwares for mobility</string>
+    <string name="question_1_option_2">b) Google mobile device name</string>
+    <string name="question_1_option_3">c) Virtual machine</string>
+    <string name="question_1_option_4">d)None of the above</string>
+    <string name="question_2">Q2 - Android is a linux based operating system "\n" Select one:</string>
+    <string name="question_2_option_1">a) True</string>
+    <string name="question_2_option_2">b) False</string>
+    <string name="question_3">Q3 - The result of the expression shown below is: "\n" 4^12</string>
+    <string name="question_3_option_1">a) 2</string>
+    <string name="question_3_option_2">b) 4</string>
+    <string name="question_3_option_3">c) 8</string>
+    <string name="question_3_option_4">d) 12</string>
+    <string name="question_4">Q4 - Which arithmetic operations can result in the throwing of an ArithmeticException?</string>
+    <string name="question_4_option_1">a) +</string>
+    <string name="question_4_option_2">b) %</string>
+    <string name="question_4_option_3">c) *</string>
+    <string name="question_4_option_4">d) /</string>
+    <string name="question_5">Q5 - The root element of AndroidManifest.xml is </string>
+    <string name="question_6">represents a single user interface screen.</string>
+    <string name="button_name">Submit</string>
+</resources>
